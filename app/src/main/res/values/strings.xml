@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Go Donor</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBWMFQLmjZfz3KqBwwL-5tJcxXe9P8cpvY</string>
+</resources>
